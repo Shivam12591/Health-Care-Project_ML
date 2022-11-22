@@ -23,10 +23,12 @@ Target	1 or 0
 Task to be performed:
 1.	Preliminary analysis:
   a. Perform preliminary data inspection and report the findings on the structure of the data, missing values, duplicates, etc.
+  
   b. Based on these findings, remove duplicates (if any) and treat missing values using an appropriate strategy
 
 2.	Prepare a report about the data explaining the distribution of the disease and the related factors using the steps listed below:
   a. Get a preliminary statistical summary of the data and explore the measures of central tendencies and spread of the data
+  
   b. Identify the data variables which are categorical and describe and explore these variables using the appropriate tools, such as count plot 
   c. Study the occurrence of CVD across the Age category
   d. Study the composition of all patients with respect to the Sex category
